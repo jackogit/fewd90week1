@@ -9,10 +9,15 @@ html {
 h3	{ 
 	text-decoration: underline;
 }
-
+p	{font-weight: bold;
+}
 h3	{
 	font-weight: bold;
 }
 h1	{
-	font-family: big-caslon;
+	font-family: big-caslon
+}
+body {
+  margin-left: 100px;
+  margin-right: 100px;
 }
